@@ -13,6 +13,10 @@
 
 }
 
+img {
+	max-width: 100%;
+}
+
 .header {
 	margin-left: 10px;
 	margin-top: 20px;
@@ -91,6 +95,10 @@ border: 2px solid black;
 	margin: 10px;
 	width: 375px;
 	height: 375px;
+}
+
+.square, .square2:hover {
+	cursor: pointer;
 }
 
 .item_row2 {
